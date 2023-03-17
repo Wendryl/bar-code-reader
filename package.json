@@ -1,0 +1,25 @@
+{
+  "name": "bar-code-reader",
+  "version": "1.0.0",
+  "description": "A website for generating/reading bar codes/qr codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendryl/bar-code-reader.git"
+  },
+  "keywords": [
+    "bar-code",
+    "qr-code",
+    "generator",
+    "reader"
+  ],
+  "author": "Wendryl Santos (wendryl10000@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendryl/bar-code-reader/issues"
+  },
+  "homepage": "https://github.com/wendryl/bar-code-reader#readme"
+}
