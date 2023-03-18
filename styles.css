@@ -5,3 +5,11 @@
 .custom-form__submit-btn {
   max-width: 300px;
 }
+
+.custom-form__clipboard-btn {
+  width: 50px;
+}
+
+#reader {
+  overflow: hidden;
+}
